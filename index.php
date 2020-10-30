@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP 1663Test</h1>
-		<p><b>An Example of shivagami from github PHP in Action</b></p>
+		<p><b>An Example of now from terminal chanegs PHP in Action</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information VERSION2 </h2> 
