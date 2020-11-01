@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP Test Shivagamo Gugan</h1>
-		<p><b>An Example of now from terminal changes PHP in Action</b></p>
+		<p><b>An Example of Dubai howi from terminal changes PHP in Action</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information VERSION2 </h2> 
